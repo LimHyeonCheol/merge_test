@@ -6,3 +6,8 @@ class Solution:
         print(list2)
         print(sorted(list1)==sorted(list2))
         return sorted(list1)==sorted(list2)
+		
+		
+		
+		
+		gdgdg
